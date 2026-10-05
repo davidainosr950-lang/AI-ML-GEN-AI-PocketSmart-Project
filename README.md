@@ -2,7 +2,7 @@
 
 ## Team Members
 - David Ainos R
-- Darwin L
+- Darvin Raj L
 - Dhakshan K
 - Deepak P
 
